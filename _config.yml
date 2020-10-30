@@ -1,0 +1,5 @@
+title: Fabrício Giordanelli # your name (or website title) here
+logo: "/images/Fabrício.png?raw=true" # your photo (or logo) here
+description: Fabrício Giordanelli já trabalhou em quatro grandes empresas na área estatística com modelos de precificação, elasticidade, machine learning aplicada à fraudee e com subscrição. Desenvolveu painéis e relatórios em R (utlizando markdown e shiny), Python, VBA e SAS/SQL para prever e dectetar riscos e padrões comportamentais.
+theme: jekyll-theme-minimal
+google_analytics:
